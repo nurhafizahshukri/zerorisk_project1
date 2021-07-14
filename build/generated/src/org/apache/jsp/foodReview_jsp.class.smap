@@ -1,0 +1,21 @@
+SMAP
+foodReview_jsp.java
+JSP
+*S JSP
+*F
++ 0 foodReview.jsp
+foodReview.jsp
++ 1 header.html
+header.html
+*L
+1,15:53
+1#1,61:68
+15#0,9:128
+24,12:138
+35,8:150
+42:158
+43:159,6
+44,3:165
+46,9:168
+54,22:177
+*E
